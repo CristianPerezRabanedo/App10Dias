@@ -59,7 +59,7 @@ fun Libreria() {
             BarraSuperior()
         }
     ) {
-        val libros = RepositorioLibros.libros // Acceder directamente a la propiedad libros del objeto RepositorioLibros
+        val libros = RepositorioLibros.libros
         ListaLibros(libros = libros, contentPadding = it)
     }
 }
