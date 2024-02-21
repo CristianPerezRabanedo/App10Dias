@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Libreria</string>
+
+    <string name="libro1">El Imperio Final</string>
+    <string name="libro2">Fundación</string>
+    <string name="libro3">20000 Leguas De Viaje Submarino</string>
+    <string name="libro4">Amanecer Rojo</string>
+    <string name="libro5">El Camino De Los Reyes</string>
+    <string name="libro6">Chrysalis: The Antventure Begins</string>
+    <string name="libro7">El Libro  Básico</string>
+    <string name="libro8">Mort</string>
+    <string name="libro9">La Llamada De Cthulhu</string>
+    <string name="libro10">El Problema De Los Tres Cuerpos</string>
+
+    <string name="autor1">Brandon Sanderson</string>
+    <string name="autor2">Isaac Assimov</string>
+    <string name="autor3">Julio Verne</string>
+    <string name="autor4">Pierce Brown</string>
+    <string name="autor5">Brandon Sanderson</string>
+    <string name="autor6">RinoZ</string>
+    <string name="autor7">Joan Tretze</string>
+    <string name="autor8">Terry Prachet</string>
+    <string name="autor9">H.P. Lovecraft</string>
+    <string name="autor10">Cixin Liu</string>
+
+    <string name="descripcion1"> Novela de fantasía escrita por el autor estadounidense Brandon Sanderson. Su versión original fue publicada el 17 de julio de 2006 por Tor Books y la traducción en español fue publicada en España por la editorial Nova en 2008. Es la primera novela de la trilogía de Nacidos de la bruma, seguido por El pozo de la ascensión y El héroe de las eras.</string>
+    <string name="descripcion2">Novela de ciencia ficción escrita por Isaac Asimov, publicada en 1951 por la editorial Gnome Press. Es el primer libro de la llamada "Trilogía de la Fundación" (o "Ciclo de Trántor" como también se le denomina).</string>
+    <string name="descripcion3">Obra narrada en primera persona por el profesor francés Pierre Aronnax, notable biólogo que es hecho prisionero por el Capitán Nemo y es conducido por los océanos a bordo del submarino Nautilus, en compañía de su criado Conseil y el arponero canadiense Ned Land.</string>
+    <string name="descripcion4">Primer libro de la saga homónima creada por Pierce Brown. Su publicación original fue en enero de 2014 mientras que en español la Editorial RBA Molino lo público el 1 de noviembre mismo año.</string>
+    <string name="descripcion5">Novela de fantasía épica escrita por el autor estadounidense Brandon Sanderson y el primer libro de la saga El archivo de las tormentas. La novela fue publicada el 31 de agosto de 2010 por Tor Books. El Camino de los Reyes consta de un preludio, un prólogo, 75 capítulos, un epílogo y 9 interludios. Le siguieron Palabras Radiantes en 2014, Juramentada en 2017 y El Ritmo de la Guerra en 2020.</string>
+    <string name="descripcion6">Anthony has been reborn! Placed into the remarkable game-like world skills? Bite? Dig. Wait....I\'ve been reborn as a WHAT?! Follow Anthony as he attempts to adjust to his new life, to survive and grow in his new Dungeon home!</string>
+    <string name="descripcion7">Tebeo rolero para gente rolera en el que se narran las peripecias de un grupo de jugadores de rol que se entregan a una campaña de Hechizos y Hostias en cuerpo y alma. Una obra escrita y dibujada por Joan Tretze</string>
+    <string name="descripcion8">Novela de fantasía escrita por Terry Pratchett y publicada en 1987. Es la cuarta entrega de la saga del Mundodisco. En ella, la Muerte, presente en todas las novelas de la saga, desempeña por primera vez un papel protagonista. Ha sido adaptada como obra de teatro</string>
+    <string name="descripcion9">Relato corto en estructura de novelette escrito por H. P. Lovecraft en el año 1926. La obra fue publicada por primera vez en febrero de 1928 por la editorial de pulp Weird Tales. Cthulhu hace su primera aparición en este relato, convirtiéndose en una figura central del ciclo literario de los Mitos de Cthulhu. Para la mayor parte de los críticos es el inicio del horror cósmico de dicho ciclo.</string>
+    <string name="descripcion10"> Novela de ciencia ficción del escritor chino Liu Cixin. Es el primer libro de la trilogía titulada El recuerdo del pasado de la Tierra (en chino, 地球往事; pinyin, Dìqiú wǎngshì), pero los lectores chinos generalmente se refieren a la serie por el título de la primera novela. El título hace referencia al problema de los tres cuerpos en el campo de la mecánica orbital.</string>
+
+
+</resources>
