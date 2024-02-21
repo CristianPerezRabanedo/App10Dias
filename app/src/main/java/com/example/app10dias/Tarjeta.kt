@@ -91,7 +91,7 @@ fun TarjetaLibro(
                         )
                         .clickable {
                             expanded = !expanded
-                            imageExpanded = expanded // Synchronize image expansion with card expansion
+                            imageExpanded = expanded 
                         }
                         .animateContentSize(
                             animationSpec = spring(
@@ -109,7 +109,7 @@ fun TarjetaLibro(
                 IconButton(
                     onClick = {
                         expanded = !expanded
-                        imageExpanded = expanded // Synchronize card expansion with image expansion
+                        imageExpanded = expanded 
                     },
                     modifier = Modifier.size(dimensionResource(R.dimen.Very_Big))
                 ) {
